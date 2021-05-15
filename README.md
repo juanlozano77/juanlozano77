@@ -8,7 +8,7 @@
 
 - 📫 Mí correo electrónico: **juanjavierlozano@gmail.com**
 
-- ⚡ Me gusta **Todo lo lo retro.**
+- 🕹️ Me gusta **Todo lo lo retro, en especial los arcades.**
 
 <h3 align="left">Mi perfil contable:</h3>
 <p align="left">
