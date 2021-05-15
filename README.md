@@ -1,12 +1,12 @@
 
 <h1 align="center">Hola 👋, Soy Juan Lozano.</h1>
-<h3 align="center">Contador Público y Licenciado en Sistemas de Información de las Organizaciones y aficionado a la programación.</h3>
+<h3 align="center">Contador Público 💼 y Licenciado en Sistemas de Información de las Organizaciones y aficionado a la programación. 🖥️</h3>
 
--  🌱 No soy ningún experto por ahora iniciando y aprendiendo desarrollo web: **Javascript, Nodejs, Typescript y Angular**
+-  🌱 Estoy reiniciando en la programación y aprendiendo desarrollo web: **Javascript, Nodejs, Typescript y Angular**
 
-- 💬 Me podes consultar por **sql,excel,vba y porque no alguna consulta sobre monotributo. 😁**
+- 💬 También hago macros y uso conexiones a bases de datos con Excel, me podes consultar sobre **sql,excel,vba y sí, alguna consulta sobre monotributo también 😁**
 
-- 📫 para contactarte: **juanjavierlozano@gmail.com**
+- 📫 Mí correo electrónico: **juanjavierlozano@gmail.com**
 
 - ⚡ Me gusta **Todo lo lo retro.**
 
