@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, Soy Juan Lozano.</h1>
 <h3 align="center">Contador Público 💼, Licenciado en Sistemas de Información de las Organizaciones y aficionado a la programación. 🖥️</h3>
 
--  🌱  Después de mucho, mucho tiempo estoy reiniciando en la programación y aprendiendo desarrollo web: **Javascript, Nodejs, Typescript y Angular**
+-  🌱  Después de un largo tiempo estoy retomando la programación y aprendiendo desarrollo web: **Javascript, Nodejs, Typescript y Angular**
 
 - 💬  También hago macros y uso conexiones a bases de datos con Excel, me podes consultar sobre **sql,excel,vba y sí, alguna consulta sobre monotributo también 😁**
 
