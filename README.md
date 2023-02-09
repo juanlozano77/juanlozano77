@@ -19,7 +19,7 @@
 
 <h3 align="left">Mi perfil contable:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/juan-lozano-297367a1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juan-javier-lozano" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan-javier-lozano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="perfil linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
