@@ -6,6 +6,8 @@
 
 - 💬  También hago macros y uso conexiones a bases de datos con Excel, me podes consultar sobre **sql,excel,vba y sí, alguna consulta sobre monotributo también 😁**
 
+- 🔮  Actualmente estoy haciendo una licencitaura en ciencias de datos
+
 - 📫  Mi correo electrónico: **juanjavierlozano@gmail.com**
 
 - Di mis primeros pasos en programación siendo chico con la mítica:
